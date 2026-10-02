@@ -55,3 +55,7 @@ The platform consists of:
 ## 🌾 Impact
 
 Smart Agri aims to combine IoT, AI, weather intelligence, and soil analytics to provide farmers with practical, data-driven insights for better agricultural decision-making.
+
+## 🚀 Live Demo
+
+[🌱 View Smart Agri Live Demo](https://smart-agriculture-zhss.vercel.app)
